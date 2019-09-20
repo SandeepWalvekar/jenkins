@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Hello from git Hub"
+echo "Is it working?"
